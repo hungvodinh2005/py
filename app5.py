@@ -45,3 +45,4 @@ for i in range(n):
     first[a[i]]+=x
 
 print(s)
+day la app5
