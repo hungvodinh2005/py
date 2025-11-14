@@ -23,3 +23,4 @@ for t in range(int(input())):
     if k==1: ans += 1
     print(ans)
 day la app 2
+day la app 22
