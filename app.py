@@ -8,3 +8,4 @@ for line in c:
             a.append(num)
             print(num)
 print(a)
+hjhgjhgjhgj
