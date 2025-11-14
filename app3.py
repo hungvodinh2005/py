@@ -20,3 +20,4 @@ for i in range(n):
     a[s.code] = s.name
 for i in range(m): arr.append(ob2(i+1, a[input()], input(), input(), input()))
 for i in sorted(arr, key=lambda x: x.date): print(i)
+day la app3
