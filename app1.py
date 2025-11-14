@@ -38,3 +38,4 @@ def main():
             LL.insert(st, x)
     print(len(LEN))
 main()
+day la app 1 
