@@ -43,3 +43,4 @@ for i in range(N):
 
 if cyc: print('impossible')
 else: print('possible')
+    day la app4
