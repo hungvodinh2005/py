@@ -22,3 +22,4 @@ for t in range(int(input())):
     for i in range(n-1): ans += dp[i][k]
     if k==1: ans += 1
     print(ans)
+day la app 2
